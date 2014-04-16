@@ -1,0 +1,1 @@
+Add and remove elements using JavaScript
